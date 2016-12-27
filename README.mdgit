@@ -1,0 +1,1 @@
+"# JumpActionGame"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/13noj/JumpActionGame.gitgit push -u origin master
